@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sreehari-rajesh
-- 👀 I’m interested in network-systems
+- 👀 I’m interested in network-systems, backend-development
 - 🌱 I’m currently learning spring-boot, kafka, redis
 - 💞️ I’m looking to collaborate on backend applications
 - 📫 How to reach me
