@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @sreehari-rajesh
+- 👀 I’m interested in network-systems
+- 🌱 I’m currently learning spring-boot, kafka, redis
+- 💞️ I’m looking to collaborate on backend applications
+- 📫 How to reach me
+    - @sreehari.rajesh733(Slack)
+    - sreehari.rajesh@meesho.com(gmail)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Not many
